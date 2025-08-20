@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Build output
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Mac system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: Coverage reports
+coverage/
+
+# Optional: Dependency folders for parcel / vite, if ever used
+.cache/
+.parcel-cache/
+
+# Optional: React profiler files
+*.profiler.json
+
+# Optional: Misc
+*.log
